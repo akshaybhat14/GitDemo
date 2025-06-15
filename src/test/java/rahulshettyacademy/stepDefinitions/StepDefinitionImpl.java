@@ -26,7 +26,6 @@ public class StepDefinitionImpl extends BaseTest{
 	{
 		landingPage = launchApplication();
 		//code
-		System.out.println("Hi");
 	}
 
 	
